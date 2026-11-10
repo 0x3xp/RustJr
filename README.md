@@ -1,3 +1,5 @@
+![RustJr Banner](assets/banner.jpg)
+
 # RustJr
 
 A hands-on collection of standalone Rust projects, experiments, and systems programming exercises.
